@@ -1,0 +1,19 @@
+@font-face {
+    src: url(../fonts/Montauk-Bold.otf);
+    font-family: Montauk-Bold;
+}
+
+@font-face {
+    src: url(../fonts/Montauk-Regular.otf);
+    font-family: Montauk-Regular;
+}
+
+@font-face {
+    src: url(../fonts/Montauk-Light.otf);
+    font-family: Montauk-Light;
+}
+
+@font-face {
+    src: url(../fonts/Montauk-Italic.otf);
+    font-family: Montauk-Italic;
+}
