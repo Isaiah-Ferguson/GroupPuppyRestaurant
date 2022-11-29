@@ -18,22 +18,38 @@
     font-family: Montauk-Italic;
 }
 
+.back {
+    background-image: url(../assets/bgtexture.jpg);
+    background-repeat: repeat; 
+}
 
---------------------ISAIAH--------------------
-
-
-
-
-
---------------------MADDIE--------------------
-
-
-
+a {
+    color: brown;
+    
+}
 
 
---------------------SAMUEL--------------------
+.hero 
+{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 10px;
+    color: brown;
 
+}
 
+.food {
+    /* background-image: url(../assets/cateringHero.jpg); */
+    width: 1914px;
+    height: 400px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
 
-
-
+}
