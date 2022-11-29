@@ -37,6 +37,41 @@
     font-weight:bold;
 }
 
+.navalignright{
+    justify-content: end;
+}
+
+.homenavitem{
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.homeHero{
+    padding-bottom:60px;
+}
+
+.homeSingle{
+    max-width:450px;
+}
+
+.muzzlesContainer{
+    background-color:#FFFFFF;
+}
+
+.homeText{
+    color:#5F002B;
+}
+.homeTitle{
+
+}
+.homeLorem{
+    font-family:Montauk-Regular;
+    font-size:small;
+}
+.homeImage{
+    margin-top:45px;
+    max-width:700px;
+}
 
 
 /*--------------------SAMUEL--------------------*/
