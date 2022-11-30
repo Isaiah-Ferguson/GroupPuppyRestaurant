@@ -28,22 +28,8 @@ a {
     
 }
 
-
-.hero 
-{
-    position: relative;
-    width: 100vw;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 10px;
-    color: brown;
-
-}
-
 .food {
-    /* background-image: url(../assets/cateringHero.jpg); */
+    
     width: 1914px;
     height: 400px;
     position: relative;
@@ -51,5 +37,43 @@ a {
     align-items: center;
     display: flex;
     
+}
 
+.img2 {
+    /* position: absolute; */
+    top: 700px;
+    
+   
+    
+}
+
+.hero {
+  font-size: 4rem;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: white;
+  
+  border: 30px;
+  position: absolute;
+  top: 7rem;
+  text-align: center;
+  width: 100%;
+    
+}
+
+.hero-service
+{
+    font-size: 1rem;
+    background-color: white;
+    border: 30px;
+    position: absolute;
+    width: 40%;
+    text-align: center;
+    top: 750px;
+    left: 590px;
+   
+}
+
+.three-shrink {
+    top: 755px;
+    
 }
