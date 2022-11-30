@@ -18,6 +18,11 @@
     font-family: Montauk-Italic;
 }
 
+@font-face {
+    src: url(../fonts/FugazOne-Regular.ttf);
+    font-family: FugazOne-Regular;
+}
+
 
 /*--------------------ISAIAH--------------------*/
 
@@ -34,7 +39,7 @@
 .homenavlink{
     color:#5F002B;
     font-style:italic;
-    font-weight:bold;
+    font-family: FugazOne-Regular;
 }
 
 .navalignright{
@@ -62,7 +67,10 @@
     color:#5F002B;
 }
 .homeTitle{
-
+    font-family: FugazOne-Regular;
+}
+.muzzlesLogo{
+    max-width:400px;
 }
 .homeLorem{
     font-family:Montauk-Regular;
@@ -72,8 +80,54 @@
     margin-top:45px;
     max-width:700px;
 }
+.companyLogo{
+    max-width:100px;
+}
+.footerContainerLeft{
+    text-align:left;
+    color:#5F002B;
+    font-family:Montauk-Regular;
+    font-size:small;
+}
+.footerContainerRight{
+    text-align:right;
+    color:#5F002B;
+    font-family:Montauk-Regular;
+    font-size:small;
+}
+.footerRow{
+    margin-top:10px;
+}
 
 
+.ourMenuTitle{
+    background-color:#FFFFFF;
+    color:#5F002B;
+    font-family:FugazOne-Regular;
+    text-align:center;
+    margin-bottom:40px;
+}
+.sectionContainer{
+    background-color:#FFFFFF;
+}
+.sectionTitle{
+    padding-top:15px;
+    color:#5F002B;
+}
+.sectionText{
+    color:#5F002B;
+}
+.sectionOption{
+    padding-top:10px;
+    color:#5F002B;
+}
+.optionPrice{
+    padding-top:10px;
+    color:#5F002B;
+}
+.rowPadding{
+    margin-top:20px;
+}
 /*--------------------SAMUEL--------------------*/
 
 
