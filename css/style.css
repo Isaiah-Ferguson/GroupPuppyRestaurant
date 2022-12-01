@@ -143,6 +143,60 @@
     height:520px;
 }
 
+.muzzlesLogoSM{
+    max-width:80px;
+}
+
+.ourMenuTitleSM{
+    background-color:#FFFFFF;
+    color:#5F002B;
+    font-family:FugazOne-Regular;
+    text-align:center;
+    margin-bottom:20px;
+}
+
+.sectionContainerSM{
+    background-color:#FFFFFF;
+    height:570px;
+}
+.homenavitemSM{
+
+}
+
+.homenavlinkSM{
+    color:#5F002B;
+    font-style:italic;
+    font-family: FugazOne-Regular;
+    font-size:x-small;
+}
+
+.sectionTitleSM{
+    font-family:FugazOne-Regular;
+    padding-top:15px;
+    color:#5F002B;
+    font-size:small;
+}
+.sectionTextSM{
+    font-family:Montauk-Regular;
+    color:#5F002B;
+    font-size:x-small;
+}
+.sectionOptionSM{
+    font-family:Montauk-Regular;
+    padding-top:10px;
+    color:#5F002B;
+    font-size:small;
+}
+.footerContainerLeftSM{
+    text-align:left;
+    color:#5F002B;
+    font-family:Montauk-Regular;
+}
+.footerContainerRightSM{
+    text-align:right;
+    color:#5F002B;
+    font-family:Montauk-Regular;
+}
 
 
 
