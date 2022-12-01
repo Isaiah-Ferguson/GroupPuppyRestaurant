@@ -109,14 +109,17 @@
 }
 .sectionContainer{
     background-color:#FFFFFF;
+    height:430px;
 }
 .sectionTitle{
+    font-family:FugazOne-Regular;
     padding-top:15px;
     color:#5F002B;
 }
 .sectionText{
     font-family:Montauk-Regular;
     color:#5F002B;
+    font-size:small;
 }
 .sectionOption{
     font-family:Montauk-Regular;
