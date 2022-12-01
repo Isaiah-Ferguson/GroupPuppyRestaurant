@@ -14,11 +14,45 @@
 </head>
 
 <body>
+
+    <!--Mobile NavBar-->
     <div class="div AboutBG">
-        <div class="container AboutHeaderTxt">
+<div class="container d-xxl-none .d-xxl-block">
+        <nav class="navbar navbar-expand-lg AboutHeaderTxt">
+            <div class="container-fluid">
+                <div class="navbar-brand col-8" href="#"><img src="../assets/MuzzlesLogo.png" alt="muzzle logo">
+                </div>
+              <a class="navbar-brand" href="#"></a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="#">About</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Menu</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Catering</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Photo</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link acive" href="#">Home</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+        </div>
+    <!--Desktop NavBar-->
+        <div class="container AboutHeaderTxt d-none d-xxl-block">
             <nav class="navbar navbar-expand-lg">
                 <div class="container-fluid">
-                    <div class="navbar-brand col-8" href="#"><img src="../assets/MuzzlesLogo.png" alt="muzzle logo">
+                        <a class="nav-link active NavPadding" aria-current="page" href="#"><div class="navbar-brand col-8" href="#"><img src="../assets/MuzzlesLogo.png" alt="muzzle logo"></a>
                     </div>
                     <div class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -26,25 +60,31 @@
                     </div>
                     <div class="collapse navbar-collapse d-flex justify-content-end" id="navbarNav">
                         <ul class="navbar-nav">
-                            <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="#">About</a>
+                            <li class="nav-item ">
+                                <a class="nav-link active NavPadding" aria-current="page" href="#">About</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="#">Menu</a>
+                                <a class="nav-link active NavPadding" aria-current="page" href="#">Menu</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="#">Catering</a>
+                                <a class="nav-link active NavPadding" aria-current="page" href="#">Catering</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="#">Photo</a>
+                                <a class="nav-link active NavPadding" aria-current="page" href="#">Photo</a>
                             </li>
                         </ul>
                     </div>
                 </div>
             </nav>
         </div>
+
+
         <br>
+
+
         <!--Desktop Version-->
+
+
         <div class="container d-none d-xl-block">
             <div class="d-flex justify-content-center">
                 <div class="col-4 img-fluid"><img src="../assets/AboutMain.jpg" alt="dogsegg"></div>
@@ -81,7 +121,9 @@
             </div>
         </div>
         <br>
+
 <!--mobile version-->
+
         <div class="container d-xxl-none d-xxl-block">
             <div class="container">
                 <div class="d-none d-sm-block"><img src="../assets/AboutMain.jpg" alt="dogsegg"></div>
@@ -117,9 +159,8 @@
                 </div>
             </div>
         </div>
-        <div class="container d-xxl-none d-xxl-block">
-            <div class="container">
-                <div class="d-none d-sm-block"><img src="../assets/AboutMain.jpg" alt="dogsegg"></div>
+        <div class=" d-xxl-none d-xxl-block">
+            <div>
                 <div class="d-block d-sm-none AboutTxtBg AboutTxt AboutpaddinngTxt AboutMobileTxt">
                     <p class="AboutTitleTxt ">The Story Behind the Grill</p>
                     <p>
@@ -321,15 +362,17 @@
     </div>
         <br>
         <br>
+
+
         <footer class="container">
             <div class="row">
-                <div class="col-9 AboutMontCard">
+                <div class="col-6 AboutMontCard">
                     <p>1357 Mutt Street, Rottweiler CA. 12345</p>
                     <p>Phone: 123 456 7890</p>
                 </div>
-                <div class="col-3 AboutMontCard text-end">
+                <div class="col-6 AboutMontCard text-end">
                     <img src="../assets/CompanyLogo.png" alt="CompanyLogo" style="height: 31.6px; width: 100px;">
-                    <p>Copyright muzzles Restaurant</p>
+                    <p>Copyright © Muzzles Restaurant</p>
                 </div>
             </div>
             <br>
