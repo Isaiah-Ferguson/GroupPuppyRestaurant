@@ -205,7 +205,7 @@
 }
 
 .homeSingleMD{
-    width:350px;
+    width:320px;
 }
 .homeImageMD{
     margin-top:3px;
@@ -216,12 +216,21 @@
     margin-bottom:10px;
 }
 .homeSingleSM{
-    width:263px;
+    
 }
 .companyLogoSM{
     max-width:100px;
     margin-bottom:15px;
 }
+
+.homeTitleMD{
+    font-family: FugazOne-Regular;
+    font-size:large;
+    padding-top:15px;
+    padding-bottom:10px;
+}
+
+
 /*--------------------SAMUEL--------------------*/
 
 .NavPadding{
