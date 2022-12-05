@@ -20,8 +20,224 @@
 
 @font-face {
     src: url(../fonts/FugazOne-Regular.ttf);
-    font-family: Fugaz;
+
+    font-family: FugazOne-Regular;
 }
+
+
+/*--------------------ISAIAH--------------------*/
+
+
+
+
+
+/*--------------------MADDIE--------------------*/
+
+.bg{
+    background: url("../assets/bgtexture.jpg");
+}
+
+.homenavlink{
+    color:#5F002B;
+    font-style:italic;
+    font-family: FugazOne-Regular;
+}
+
+.navalignright{
+    justify-content: end;
+}
+
+.homenavitem{
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.homeHero{
+    padding-bottom:60px;
+}
+
+.homeSingle{
+    max-width:400px;
+}
+
+.muzzlesContainer{
+    background-color:#FFFFFF;
+}
+
+.homeText{
+    color:#5F002B;
+}
+.homeTitle{
+    font-family: FugazOne-Regular;
+    font-size:xx-large;
+    padding-top:15px;
+}
+.muzzlesLogo{
+    max-width:400px;
+}
+.homeLorem{
+    margin-top:-10px;
+    font-family:Montauk-Regular;
+    font-size:small;
+}
+.homeImage{
+    margin-top:10px;
+    max-width:700px;
+}
+.companyLogo{
+    max-width:100px;
+}
+.footerContainerLeft{
+    text-align:left;
+    color:#5F002B;
+    font-family:Montauk-Regular;
+    font-size:small;
+}
+.footerContainerRight{
+    text-align:right;
+    color:#5F002B;
+    font-family:Montauk-Regular;
+    font-size:small;
+}
+.footerRow{
+    margin-top:10px;
+}
+
+
+.ourMenuTitle{
+    background-color:#FFFFFF;
+    color:#5F002B;
+    font-family:FugazOne-Regular;
+    text-align:center;
+    margin-bottom:40px;
+}
+.sectionContainer{
+    background-color:#FFFFFF;
+    height:430px;
+}
+.sectionTitle{
+    font-family:FugazOne-Regular;
+    padding-top:15px;
+    color:#5F002B;
+}
+.sectionText{
+    font-family:Montauk-Regular;
+    color:#5F002B;
+    font-size:small;
+}
+.sectionOption{
+    font-family:Montauk-Regular;
+    padding-top:10px;
+    color:#5F002B;
+}
+.optionPrice{
+    font-family:Montauk-Regular;
+    padding-top:10px;
+    color:#5F002B;
+}
+.rowPadding{
+    margin-top:20px;
+}
+
+.muzzlesLogoMD{
+    max-width:250px;
+}
+.sectionContainerMD{
+    background-color:white;
+    height:520px;
+}
+
+.muzzlesLogoSM{
+    max-width:80px;
+}
+
+.ourMenuTitleSM{
+    background-color:#FFFFFF;
+    color:#5F002B;
+    font-family:FugazOne-Regular;
+    text-align:center;
+    margin-bottom:20px;
+}
+
+.sectionContainerSM{
+    background-color:#FFFFFF;
+    height:570px;
+}
+.homenavitemSM{
+
+}
+
+.homenavlinkSM{
+    color:#5F002B;
+    font-style:italic;
+    font-family: FugazOne-Regular;
+    font-size:x-small;
+}
+
+.sectionTitleSM{
+    font-family:FugazOne-Regular;
+    padding-top:15px;
+    color:#5F002B;
+    font-size:small;
+}
+.sectionTextSM{
+    font-family:Montauk-Regular;
+    color:#5F002B;
+    font-size:x-small;
+}
+.sectionOptionSM{
+    font-family:Montauk-Regular;
+    padding-top:10px;
+    color:#5F002B;
+    font-size:small;
+}
+.footerLeftSM{
+    font-size:x-small;
+    text-align:left;
+    color:#5F002B;
+    font-family:Montauk-Regular;
+}
+.footerRightSM{
+    text-align:right;
+    color:#5F002B;
+    font-family:Montauk-Regular;
+    font-size:x-small;
+}
+
+.homeSingleMD{
+    width:320px;
+}
+.homeImageMD{
+    margin-top:3px;
+    max-width:700px;
+}
+
+.homeHeroSM{
+    margin-bottom:10px;
+}
+.homeSingleSM{
+    
+}
+.companyLogoSM{
+    max-width:100px;
+    margin-bottom:15px;
+}
+
+.homeTitleMD{
+    font-family: FugazOne-Regular;
+    font-size:large;
+    padding-top:15px;
+    padding-bottom:10px;
+}
+
+.homeTitleSM{
+    font-family: FugazOne-Regular;
+    font-size:medium;
+    padding-top:15px;
+    padding-bottom:10px;
+}
+
+/*--------------------SAMUEL--------------------*/
 
 .NavPadding{
     margin: 12px;
