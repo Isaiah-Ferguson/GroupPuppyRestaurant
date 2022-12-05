@@ -57,7 +57,7 @@
 }
 
 .homeSingle{
-    max-width:450px;
+    max-width:400px;
 }
 
 .muzzlesContainer{
@@ -69,6 +69,7 @@
 }
 .homeTitle{
     font-family: FugazOne-Regular;
+    font-size:xx-large;
 }
 .muzzlesLogo{
     max-width:400px;
@@ -220,14 +221,6 @@
     margin-bottom:15px;
 }
 /*--------------------SAMUEL--------------------*/
-
-
-
-
-
-=======
-    font-family: Fugaz;
-}
 
 .NavPadding{
     margin: 12px;
