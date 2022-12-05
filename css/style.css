@@ -105,6 +105,7 @@
 }
 .AboutTxtBg {
     background-color: white;
+    /*yo*/
 }
 
 .muzzlesLogoMD{
@@ -189,4 +190,39 @@
     overflow: scroll;
   }
 
-  /*hi*/
+  .PhotoScroll{
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    width: 350px;
+    height: 400px;
+    overflow: scroll;
+  }
+
+  .AboutPhotoScroll{
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    width: 350px;
+    height: 695px;
+    overflow: scroll;
+  }
+
+  .Photo{
+    width: 305px;
+    height: 305px;
+    border: 10px solid #fff;
+}
+
+.Photo1{
+    width: 350px;
+    height: 350px;
+    border: 10px solid #fff;
+}
+
+.Photo2{
+    width: 350px;
+    height: 350px;
+    border: 10px solid #fff;
+}
+
