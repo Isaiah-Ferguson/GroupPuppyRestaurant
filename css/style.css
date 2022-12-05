@@ -20,6 +20,7 @@
 
 @font-face {
     src: url(../fonts/FugazOne-Regular.ttf);
+
     font-family: FugazOne-Regular;
 }
 
@@ -223,4 +224,78 @@
 
 
 
+
+=======
+    font-family: Fugaz;
+}
+
+.NavPadding{
+    margin: 12px;
+    color: #5F002B;
+}
+
+.AboutTitleTxt{
+    font-family: Fugaz;
+    font-size: 50px;
+    color: #5F002B;
+}
+
+.AboutTxtTeambg {
+    background-color: white;
+}
+.AboutTxtBg {
+    background-color: white;
+}
+
+.AboutBG{
+    background-image: url(../assets/bgtexture.jpg);
+    background-repeat: repeat;
+}
+
+.AboutFugazCard{
+    font-family: Fugaz;
+    font-size: 30px;
+    color: #5F002B;
+}
+
+.AboutHeaderTxt{
+    font-family: Fugaz;
+    font-size: 20px;
+    color: #5F002B;
+}
+
+.AboutMontCard{
+    font-family: Montauk-Regular;
+    font-size: 20px;
+    color: #5F002B;
+}
+
+.AboutTxt{
+    font-family: Montauk-Regular;
+    font-size: 17px;
+    color: #5F002B;
+}
+
+.AboutpaddinngTxt {
+    padding: 30px;
+    color: #5F002B;
+}
+
+.AboutTabletTxt{
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    width: 667px;
+    height: 500px;
+    overflow: scroll;
+  }
+
+  .AboutMobileTxt{
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    width: 350px;
+    height: 500px;
+    overflow: scroll;
+  }
 
