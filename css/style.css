@@ -70,16 +70,18 @@
 .homeTitle{
     font-family: FugazOne-Regular;
     font-size:xx-large;
+    padding-top:15px;
 }
 .muzzlesLogo{
     max-width:400px;
 }
 .homeLorem{
+    margin-top:-10px;
     font-family:Montauk-Regular;
     font-size:small;
 }
 .homeImage{
-    margin-top:45px;
+    margin-top:10px;
     max-width:700px;
 }
 .companyLogo{
