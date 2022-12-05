@@ -187,13 +187,13 @@
     color:#5F002B;
     font-size:small;
 }
-.footerContainerLeftSM{
+.footerLeftSM{
     font-size:x-small;
     text-align:left;
     color:#5F002B;
     font-family:Montauk-Regular;
 }
-.footerContainerRightSM{
+.footerRightSM{
     text-align:right;
     color:#5F002B;
     font-family:Montauk-Regular;
@@ -213,6 +213,10 @@
 }
 .homeSingleSM{
     width:263px;
+}
+.companyLogoSM{
+    max-width:100px;
+    margin-bottom:15px;
 }
 /*--------------------SAMUEL--------------------*/
 
