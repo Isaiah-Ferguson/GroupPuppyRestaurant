@@ -20,7 +20,7 @@
 
 @font-face {
     src: url(../fonts/FugazOne-Regular.ttf);
-    font-family: Fugaz;
+    font-family: FugazOne-Regular;
 }
 
 .NavPadding{
@@ -34,7 +34,7 @@
 }
 
 .AboutTitleTxt{
-    font-family: Fugaz;
+    font-family: FugazOne-Regular;
     font-size: 50px;
     color: #5F002B;
 }
@@ -53,13 +53,13 @@
 }
 
 .AboutFugazCard{
-    font-family: Fugaz;
+    font-family: FugazOne-Regular;
     font-size: 30px;
     color: #5F002B;
 }
 
 .AboutHeaderTxt{
-    font-family: Fugaz;
+    font-family: FugazOne-Regular;
     font-size: 20px;
     color: #5F002B;
 }
