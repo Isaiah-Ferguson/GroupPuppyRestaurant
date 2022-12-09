@@ -24,9 +24,34 @@
     font-family: FugazOne-Regular;
 }
 
+.back {
+    background-image: url(../assets/bgtexture.jpg);
+    background-repeat: repeat; 
+}
 
-/*--------------------ISAIAH--------------------*/
+a {
+    color: brown;
+    
+/*}
 
+.food {*/
+    
+    width: 1914px;
+    /* height: 400px; */
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    /* padding-left: 0px;
+    padding-right: 0px; */
+    
+}
+
+.font1 {
+    font-family: Fugaz;
+    font-size: 50px;
+    color: #5F002B;
+}
 
 
 
@@ -365,3 +390,8 @@
     border: 10px solid #fff;
 }
 
+
+.res {
+    max-width: 100%;
+    height: auto;
+}
