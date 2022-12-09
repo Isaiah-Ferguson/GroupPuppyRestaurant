@@ -18,6 +18,11 @@
     font-family: Montauk-Italic;
 }
 
+@font-face {
+    src: url(../fonts/FugazOne-Regular.ttf);
+    font-family: FugazOne-Regular;
+}
+
 .back {
     background-image: url(../assets/bgtexture.jpg);
     background-repeat: repeat; 
@@ -101,3 +106,121 @@ a {
 .space{
    display: flex-end;
 }
+
+
+.NavPadding{
+    margin: 12px;
+    color: #5F002B;
+}
+
+.AboutImg{
+    width: 100%;
+    height: 100%;
+}
+
+.AboutTitleTxt{
+    font-family: FugazOne-Regular;
+    font-size: 50px;
+    color: #5F002B;
+}
+
+.AboutTxtTeambg {
+    background-color: white;
+    /*yo*/
+}
+.AboutPadding {
+    padding-bottom: 1rem;
+}
+
+.AboutBG{
+    background-image: url(../assets/bgtexture.jpg);
+    background-repeat: repeat;
+}
+
+.AboutFugazCard{
+    font-family: FugazOne-Regular;
+    font-size: 30px;
+    color: #5F002B;
+}
+
+.AboutHeaderTxt{
+    font-family: FugazOne-Regular;
+    font-size: 20px;
+    color: #5F002B;
+}
+
+.AboutMontCard{
+    font-family: Montauk-Regular;
+    font-size: 20px;
+    color: #5F002B;
+}
+
+.AboutTxt{
+    font-family: Montauk-Regular;
+    font-size: 16px;
+    color: #5F002B;
+}
+
+.AboutpaddinngTxt {
+    padding: 30px;
+    color: #5F002B;
+}
+
+.AboutMargin {
+    margin-left: 15px;
+}
+
+.AboutTabletTxt{
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    width: 667px;
+    height: 500px;
+    overflow: scroll;
+  }
+
+  .AboutMobileTxt{
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    width: 350px;
+    height: 500px;
+    overflow: scroll;
+  }
+
+  .PhotoScroll{
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    width: 350px;
+    height: 400px;
+    overflow: scroll;
+  }
+
+  .AboutPhotoScroll{
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    width: 350px;
+    height: 695px;
+    overflow: scroll;
+  }
+
+  .Photo{
+    width: 305px;
+    height: 305px;
+    border: 10px solid #fff;
+}
+
+.Photo1{
+    width: 350px;
+    height: 350px;
+    border: 10px solid #fff;
+}
+
+.Photo2{
+    width: 350px;
+    height: 350px;
+    border: 10px solid #fff;
+}
+
