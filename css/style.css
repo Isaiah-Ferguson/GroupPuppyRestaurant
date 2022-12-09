@@ -18,3 +18,86 @@
     font-family: Montauk-Italic;
 }
 
+.back {
+    background-image: url(../assets/bgtexture.jpg);
+    background-repeat: repeat; 
+}
+
+a {
+    color: brown;
+    
+}
+
+.food {  
+    width: 1914px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.font1 {
+    font-family: Fugaz;
+    font-size: 50px;
+    color: #5F002B;
+}
+
+.font2{
+    font-family: Fugaz;
+    font-size: 20px;
+    color: #5F002B;
+}
+
+
+.wow{
+    padding: 5px;
+}
+
+
+
+.img2 {
+
+    top: 700px;   
+}
+
+.hero {
+  font-size: 4rem;
+  background-color: white;
+  border: 30px;
+  text-align: center;
+  width: 100%;
+}
+
+.hero-service
+{
+    font-size: 1rem;
+    background-color: white;
+    border: 30px;
+    width: 40%;
+    text-align: center;
+}
+
+.three-shrink {
+    top: 755px;  
+}
+
+
+.res {
+  flex-grow: 3;
+}
+
+.con {
+    flex-direction: column;
+}
+
+.jus {
+    flex-direction: row;
+}
+
+.white {
+    background-color: white;
+}
+
+.space{
+   display: flex-end;
+}
